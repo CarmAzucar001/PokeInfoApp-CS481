@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pokemonApp</string>
+
+    <string name="title">PokeInfo</string>
+    <string name="start_button">Get Started</string>
+    <string name="exit_button">Exit</string>
+    <string name="short_desc">Learn about some basic Pokemon information</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">This is the Get Started Fragment</string>
+
+</resources>
